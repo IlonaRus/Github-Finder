@@ -1,5 +1,5 @@
 // Init Github
-const github = new Github;
+const github = new Github(config.client_id, config.client_secret);
 // Init UI
 const ui = new UI;
 
