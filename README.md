@@ -4,7 +4,7 @@
 
 \
 Deze pagina heb ik gemaakt om wat vanilla Javascript en het aanroepen van een externe API te laten zien. \
-Voor de vormgeveing heb ik Bootswatch (Bootstrap) gebruikt. https://bootswatch.com/ \
+Voor de vormgeving heb ik Bootswatch (Bootstrap) gebruikt. https://bootswatch.com/ \
 De externe API die ik gebruikt heb is https://docs.github.com/en/rest \
 In dit project ben ik bezig geweest met o.a. constructors,  alerts, async, await en fetch.
 
@@ -19,8 +19,8 @@ Er komt een error alert als er een niet bestaande gebruiker gezocht wordt.
 
 
 ### Code
-Om de applicatie te runnen is een API key en API secret nodig. Deze is op te vragen vai https://github.com/settings/applications/new \
-Mijn API key en secret heb ik in een config.js file gezet. Deze file heb ik vervolgens in een .gitignore file gezet. \
+Om de applicatie te runnen is een API key en API secret nodig. Deze is op te vragen via https://github.com/settings/applications/new \
+Mijn API key en secret heb ik in een config.js file gezet. Deze file heb ik vervolgens in een .gitignore file. \
 Alle styling wordt met Javascript en Bootswatch gevormd daardoor is er geen CSS file aanwezig.
 
 Het is statische code. Er hoeft niets gerund te worden.
